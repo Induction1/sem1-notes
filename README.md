@@ -1,1 +1,3 @@
 # sem1-notes
+
+Semester 1 Yale notes...
