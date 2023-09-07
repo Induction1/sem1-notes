@@ -99,3 +99,4 @@ bday <- function(k){
 bday(23)
 ```
 
+Recall that the probability of at least one match among k random birthdays is 
